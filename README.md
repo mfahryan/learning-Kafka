@@ -91,3 +91,7 @@ For custom Kafka clients (Java or librdkafka), do not use the RBAC token listene
 http://br1kafka.dev.alldataint.com:8083/connectors/mongosinkstudent/status
 
 cron job
+
+how to make a keygen in windows cmd
+
+`ssh-keygen -t rsa -b 2048`
