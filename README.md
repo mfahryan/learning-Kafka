@@ -95,3 +95,5 @@ cron job
 how to make a keygen in windows cmd
 
 `ssh-keygen -t rsa -b 2048`
+
+nmtui untuk matiin brigde and docker
